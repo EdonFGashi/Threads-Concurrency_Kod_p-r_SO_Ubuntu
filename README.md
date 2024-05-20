@@ -8,3 +8,9 @@ Threadi i tretë: kërkon dhe kthen numrin më të vogël
 Threadi i katërt: e llogarit dhe kthen medianën e numrave
 Threadi i pestë: e llogarit dhe kthen devijimin standard të atyre numrave
 Variablat që ruajnë llogaritjet e secilit thread do të ruhen si variabla globale. Thread-i e kryen llogaritjen dhe e kthen atë, ndërsa prindi e shfaq atë.
+
+Anëtarët e grupit punues:
+Edon Gashi
+Kaltrina Krasniqi
+Jon Kuçi
+Erza Gashi
