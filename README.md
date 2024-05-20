@@ -1,1 +1,1 @@
-# Threads-Concurrency_Kod_p-r_SO_Ubuntu
+# Threads-Concurrency_Kod_për_SO_Ubuntu
